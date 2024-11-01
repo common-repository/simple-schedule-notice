@@ -1,0 +1,294 @@
+# Translation of Plugin - Simple Schedule Notice
+# This file is distributed under the same license as Simple Schedule Notice package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Schedule Notice v1.0\n"
+"POT-Creation-Date: 2018-02-09 10:50+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Tenjinyama Software Lab. <eiichirokamiya@gmail.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-schedule-notice.php:44
+msgid "Simple Schedule Notice"
+msgstr ""
+
+#: simple-schedule-notice.php:45
+msgid "Schedule Notice"
+msgstr ""
+
+#: simple-schedule-notice.php:189
+msgid "General Settings"
+msgstr ""
+
+#: simple-schedule-notice.php:191
+msgid "Destinations"
+msgstr ""
+
+#: simple-schedule-notice.php:193
+msgid "Enter destination 1."
+msgstr ""
+
+#: simple-schedule-notice.php:197
+msgid "Enter destination 2."
+msgstr ""
+
+#: simple-schedule-notice.php:200
+msgid "Notification Time"
+msgstr ""
+
+#: simple-schedule-notice.php:203
+msgid "Enter notification time."
+msgstr ""
+
+#: simple-schedule-notice.php:212
+msgid "Save"
+msgstr ""
+
+#: simple-schedule-notice.php:216
+msgid "Notification List"
+msgstr ""
+
+#: simple-schedule-notice.php:220 simple-schedule-notice.php:348
+msgid "Title"
+msgstr ""
+
+#: simple-schedule-notice.php:221 simple-schedule-notice.php:240
+msgid "Edit"
+msgstr ""
+
+#: simple-schedule-notice.php:222 simple-schedule-notice.php:241
+msgid "Delete"
+msgstr ""
+
+#: simple-schedule-notice.php:223 simple-schedule-notice.php:242
+msgid "Test"
+msgstr ""
+
+#: simple-schedule-notice.php:224
+msgid "Author"
+msgstr ""
+
+#: simple-schedule-notice.php:225
+msgid "Year"
+msgstr ""
+
+#: simple-schedule-notice.php:226
+msgid "Month"
+msgstr ""
+
+#: simple-schedule-notice.php:227
+msgid "Day"
+msgstr ""
+
+#: simple-schedule-notice.php:228
+msgid "Last Processed"
+msgstr ""
+
+#: simple-schedule-notice.php:253
+msgid "No notification task."
+msgstr ""
+
+#: simple-schedule-notice.php:263
+msgid "Add New"
+msgstr ""
+
+#: simple-schedule-notice.php:267
+msgid "Next Actions Registered"
+msgstr ""
+
+#: simple-schedule-notice.php:284
+msgid "Discard"
+msgstr ""
+
+#: simple-schedule-notice.php:289
+msgid "No action is registered"
+msgstr ""
+
+#: simple-schedule-notice.php:298
+msgid "Set Normal Action"
+msgstr ""
+
+#: simple-schedule-notice.php:300
+msgid "Reset Normal Action"
+msgstr ""
+
+#: simple-schedule-notice.php:303
+msgid "Add Immediate Action"
+msgstr ""
+
+#: simple-schedule-notice.php:308
+msgid "System Information"
+msgstr ""
+
+#: simple-schedule-notice.php:313
+msgid "PHP Time"
+msgstr ""
+
+#: simple-schedule-notice.php:318
+msgid "WP time"
+msgstr ""
+
+#: simple-schedule-notice.php:327
+msgid "Add Test Action"
+msgstr ""
+
+#: simple-schedule-notice.php:328
+msgid "* All notifications are processed. Processing date is not updated."
+msgstr ""
+
+#: simple-schedule-notice.php:343
+msgid "Notification Settings"
+msgstr ""
+
+#: simple-schedule-notice.php:354
+msgid "Notification Cycle"
+msgstr ""
+
+#: simple-schedule-notice.php:360
+msgid "Year :"
+msgstr ""
+
+#: simple-schedule-notice.php:364
+msgid "Month :"
+msgstr ""
+
+#: simple-schedule-notice.php:368
+msgid "Day :"
+msgstr ""
+
+#: simple-schedule-notice.php:375
+msgid "Common Destinations"
+msgstr ""
+
+#: simple-schedule-notice.php:378
+msgid "Do not send to destination 1"
+msgstr ""
+
+#: simple-schedule-notice.php:382
+msgid "Do not send to destination 2"
+msgstr ""
+
+#: simple-schedule-notice.php:386
+msgid "Additional Destinations"
+msgstr ""
+
+#: simple-schedule-notice.php:388
+msgid "Mail address of additional destination 1"
+msgstr ""
+
+#: simple-schedule-notice.php:392
+msgid "Mail address of additional destination 2"
+msgstr ""
+
+#: simple-schedule-notice.php:395
+msgid "Text"
+msgstr ""
+
+#: simple-schedule-notice.php:400
+msgid "Last Processed Date"
+msgstr ""
+
+#: simple-schedule-notice.php:404
+msgid "Clear Last Processed Date"
+msgstr ""
+
+#: simple-schedule-notice.php:410
+msgid "Cancel"
+msgstr ""
+
+#: simple-schedule-notice.php:413
+msgid "Add"
+msgstr ""
+
+#: simple-schedule-notice.php:415
+msgid "Update"
+msgstr ""
+
+#: simple-schedule-notice.php:497
+msgid "Test Transmission:"
+msgstr ""
+
+#: simple-schedule-notice.php:505
+msgid "Test transmission was processed."
+msgstr ""
+
+#: simple-schedule-notice.php:512
+msgid "Test transmission failed."
+msgstr ""
+
+#: simple-schedule-notice.php:763
+msgid "Time specification is incorrect."
+msgstr ""
+
+#: simple-schedule-notice.php:777
+msgid "Please specify the title."
+msgstr ""
+
+#: simple-schedule-notice.php:782
+msgid "Day value is out of range."
+msgstr ""
+
+#: simple-schedule-notice.php:785
+msgid "Month value is out of range."
+msgstr ""
+
+#: simple-schedule-notice.php:788
+msgid "Month can not be omitted when year is specified. "
+msgstr ""
+
+#: simple-schedule-notice.php:805
+msgid "At least one destination is required."
+msgstr ""
+
+#: simple-schedule-notice.php:808
+msgid "Please specify the text."
+msgstr ""
+
+#: simple-schedule-notice.php:872
+msgid "Date"
+msgstr ""
+
+#: simple-schedule-notice.php:873
+msgid "Yearly"
+msgstr ""
+
+#: simple-schedule-notice.php:874
+msgid "Monthly"
+msgstr ""
+
+#: simple-schedule-notice.php:875
+msgid "Daily"
+msgstr ""
+
+#: simple-schedule-notice.php:909
+msgid "Are you shure to discard this action?"
+msgstr ""
+
+#: simple-schedule-notice.php:912
+msgid "Are you shure to delete this notification?"
+msgstr ""
+
+#: simple-schedule-notice.php:916
+msgid ""
+"Note that the task is not processed every month when day \"31\" is "
+"specified."
+msgstr ""
+
+#: simple-schedule-notice.php:920
+msgid "Not acceptable as mail address."
+msgstr ""

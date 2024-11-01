@@ -1,0 +1,295 @@
+# Translation of Plugin - Simple Schedule Notice
+# This file is distributed under the same license as Simple Schedule Notice package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Schedule Notice v1.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2018-02-09 10:50+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Tenjinyama Software Lab. <eiichirokamiya@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Page Title
+#: simple-schedule-notice.php:44
+msgid "Simple Schedule Notice"
+msgstr "Simple Schedule Notice"
+
+# Menu Lable
+#: simple-schedule-notice.php:45
+msgid "Schedule Notice"
+msgstr "スケジュール通知"
+
+#: simple-schedule-notice.php:189
+msgid "General Settings"
+msgstr "基本設定"
+
+#: simple-schedule-notice.php:191
+msgid "Destinations"
+msgstr "通知先"
+
+#: simple-schedule-notice.php:193
+msgid "Enter destination 1."
+msgstr "通知先１を入力"
+
+#: simple-schedule-notice.php:197
+msgid "Enter destination 2."
+msgstr "通知先２を入力"
+
+#: simple-schedule-notice.php:200
+msgid "Notification Time"
+msgstr "通知時刻"
+
+#: simple-schedule-notice.php:203
+msgid "Enter notification time."
+msgstr "通知時刻を入力"
+
+#: simple-schedule-notice.php:212
+msgid "Save"
+msgstr "保存"
+
+#: simple-schedule-notice.php:216
+msgid "Notification List"
+msgstr "通知一覧"
+
+#: simple-schedule-notice.php:220 simple-schedule-notice.php:348
+msgid "Title"
+msgstr "表題"
+
+#: simple-schedule-notice.php:221 simple-schedule-notice.php:240
+msgid "Edit"
+msgstr "編集"
+
+#: simple-schedule-notice.php:222 simple-schedule-notice.php:241
+msgid "Delete"
+msgstr "削除"
+
+#: simple-schedule-notice.php:223 simple-schedule-notice.php:242
+msgid "Test"
+msgstr "テスト"
+
+#: simple-schedule-notice.php:224
+msgid "Author"
+msgstr "作成者"
+
+#: simple-schedule-notice.php:225
+msgid "Year"
+msgstr "年"
+
+#: simple-schedule-notice.php:226
+msgid "Month"
+msgstr "月"
+
+#: simple-schedule-notice.php:227
+msgid "Day"
+msgstr "日"
+
+#: simple-schedule-notice.php:228
+msgid "Last Processed"
+msgstr "前回処理日"
+
+#: simple-schedule-notice.php:253
+msgid "No notification task."
+msgstr "通知はありません。"
+
+#: simple-schedule-notice.php:263
+msgid "Add New"
+msgstr "新規登録"
+
+#: simple-schedule-notice.php:267
+msgid "Next Actions Registered"
+msgstr "次のアクション"
+
+#: simple-schedule-notice.php:284
+msgid "Discard"
+msgstr "破棄"
+
+#: simple-schedule-notice.php:289
+msgid "No action is registered"
+msgstr "アクションは登録されていません。"
+
+#: simple-schedule-notice.php:298
+msgid "Set Normal Action"
+msgstr "通常アクションを追加"
+
+#: simple-schedule-notice.php:300
+msgid "Reset Normal Action"
+msgstr "通常アクションを再設定"
+
+#: simple-schedule-notice.php:303
+msgid "Add Immediate Action"
+msgstr "即時実行アクションを追加"
+
+#: simple-schedule-notice.php:308
+msgid "System Information"
+msgstr "システム情報"
+
+#: simple-schedule-notice.php:313
+msgid "PHP Time"
+msgstr "PHP 時刻"
+
+#: simple-schedule-notice.php:318
+msgid "WP time"
+msgstr "WP 時刻"
+
+#: simple-schedule-notice.php:327
+msgid "Add Test Action"
+msgstr "テストアクションを追加"
+
+#: simple-schedule-notice.php:328
+msgid "* All notifications are processed. Processing date is not updated."
+msgstr "※ すべての通知を送信します。 処理日は更新されません。"
+
+#: simple-schedule-notice.php:343
+msgid "Notification Settings"
+msgstr "通知の明細"
+
+#: simple-schedule-notice.php:354
+msgid "Notification Cycle"
+msgstr "通知サイクル"
+
+#: simple-schedule-notice.php:360
+msgid "Year :"
+msgstr "年 ："
+
+#: simple-schedule-notice.php:364
+msgid "Month :"
+msgstr "月 ："
+
+#: simple-schedule-notice.php:368
+msgid "Day :"
+msgstr "日 ："
+
+#: simple-schedule-notice.php:375
+msgid "Common Destinations"
+msgstr "基本通知先"
+
+#: simple-schedule-notice.php:378
+msgid "Do not send to destination 1"
+msgstr "基本通知先１に送信しない"
+
+#: simple-schedule-notice.php:382
+msgid "Do not send to destination 2"
+msgstr "基本通知先２に送信しない"
+
+#: simple-schedule-notice.php:386
+msgid "Additional Destinations"
+msgstr "追加通知先"
+
+#: simple-schedule-notice.php:388
+msgid "Mail address of additional destination 1"
+msgstr "追加通知先１を入力"
+
+#: simple-schedule-notice.php:392
+msgid "Mail address of additional destination 2"
+msgstr "追加通知先２を入力"
+
+#: simple-schedule-notice.php:395
+msgid "Text"
+msgstr "本文"
+
+#: simple-schedule-notice.php:400
+msgid "Last Processed Date"
+msgstr "前回処理日"
+
+#: simple-schedule-notice.php:404
+msgid "Clear Last Processed Date"
+msgstr "前回処理日をクリア"
+
+#: simple-schedule-notice.php:410
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: simple-schedule-notice.php:413
+msgid "Add"
+msgstr "追加"
+
+#: simple-schedule-notice.php:415
+msgid "Update"
+msgstr "更新"
+
+# appended before mail title.
+#: simple-schedule-notice.php:497
+msgid "Test Transmission:"
+msgstr "テスト送信："
+
+#: simple-schedule-notice.php:505
+msgid "Test transmission was processed."
+msgstr "テスト送信しました。"
+
+#: simple-schedule-notice.php:512
+msgid "Test transmission failed."
+msgstr "テスト送信に失敗しました。"
+
+#: simple-schedule-notice.php:763
+msgid "Time specification is incorrect."
+msgstr "時刻指定に誤りがあります。"
+
+#: simple-schedule-notice.php:777
+msgid "Please specify the title."
+msgstr "表題を指定してください。"
+
+#: simple-schedule-notice.php:782
+msgid "Day value is out of range."
+msgstr "日の値が範囲外です。"
+
+#: simple-schedule-notice.php:785
+msgid "Month value is out of range."
+msgstr "月の値が範囲外です。"
+
+#: simple-schedule-notice.php:788
+msgid "Month can not be omitted when year is specified. "
+msgstr "年を指定する場合は月を省略できません。"
+
+#: simple-schedule-notice.php:805
+msgid "At least one destination is required."
+msgstr "少なくとも１つ、通知先が必要です。"
+
+#: simple-schedule-notice.php:808
+msgid "Please specify the text."
+msgstr "本文を指定してください。"
+
+#: simple-schedule-notice.php:872
+msgid "Date"
+msgstr "年月日指定"
+
+#: simple-schedule-notice.php:873
+msgid "Yearly"
+msgstr "毎年"
+
+#: simple-schedule-notice.php:874
+msgid "Monthly"
+msgstr "毎月"
+
+#: simple-schedule-notice.php:875
+msgid "Daily"
+msgstr "毎日"
+
+#: simple-schedule-notice.php:909
+msgid "Are you shure to discard this action?"
+msgstr "このアクションを破棄します。"
+
+#: simple-schedule-notice.php:912
+msgid "Are you shure to delete this notification?"
+msgstr "この通知を削除します。"
+
+#: simple-schedule-notice.php:916
+msgid ""
+"Note that the task is not processed every month when day \"31\" is specified."
+msgstr "注意）日に「31」を設定すると毎月は送信されません。"
+
+#: simple-schedule-notice.php:920
+msgid "Not acceptable as mail address."
+msgstr "メールアドレスとして不適切な形式です。"

@@ -1,0 +1,67 @@
+/* 
+    Created on : 2017/05/25, 12:05:00
+    Author     : e.kamiya
+*/
+
+article#shdntc-general h1 {
+  margin-bottom: 1.5em;
+}
+
+article#shdntc-general h2, h3 {
+  margin-bottom: 0.5em;
+}
+
+article#shdntc-detail h1 {
+  margin-bottom: 1.5em;
+}
+
+article#shdntc-detail h2, h3 {
+  margin-bottom: 0.5em;
+}
+
+.shdntc-admblock {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+
+fieldset.shdntc-fldset {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+fieldset.shdntc-fldset legend {
+  font-weight: bold;
+  font-size: 1.25em;
+  margin-bottom:0.25em;
+}
+
+table.shdntc-list th {
+  border: 0px;
+  padding: 4px 8px;
+  text-align: center;
+}
+
+table.shdntc-list td {
+  border: 0px;
+  padding: 4px 8px;
+}
+
+div.shdntc-remarks {
+  margin-left: 2em;
+  color: olive;
+}
+
+div.shdntc-remarks ul {
+  list-style-type: square;
+  margin: 0.5em 0em;
+}
+
+div.shdntc-remarks ul li {
+  margin-bottom: 0;
+  /*list-style-type: square;*/
+}
+
+div.shdntc-errors {
+  margin-left: 2em;
+  color: red;
+}
